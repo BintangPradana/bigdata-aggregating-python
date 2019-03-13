@@ -1,4 +1,4 @@
-# bigdata-aggregating-python
+# Bigdata Aggregation (Python)
 
 ## Dataset
 The data that represent the amount of money for every account in a bank. The data is in multiple CSV files with 2 columns:
